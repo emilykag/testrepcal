@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_connect_google"
+        android:orderInCategory="100"
+        android:title="Connect with google"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_connect_outlook"
+        android:orderInCategory="100"
+        android:title="Connect with outlook"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_create_outlook_event"
+        android:orderInCategory="100"
+        android:title="Create outlook event"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_create_google_event"
+        android:orderInCategory="100"
+        android:title="Create google event"
+        app:showAsAction="never" />
+</menu>
